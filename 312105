@@ -120,7 +120,7 @@ http://admin.ganbaruby23.xyz/stream/new/rockentertainment/master.m3u8?u=phcorner
 #EXTINF: -1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="JURIS : LOCAL TV", Kapamilya 
 http://128.0.104.44:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144837.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c5/Kapamilya_Online_Live_Wordmark_2D_Logo_2020.png/revision/latest/scale-to-width-down/150?cb=20230716145813" group-title="JURIS : LOCAL TV",kapamilya Online
-http://128.0.104.44:8070/live/F28766/0ee07535/144837.ts
+http://15.235.198.110:1234/stream/fantastikflix/kapamilyachannel/master.m3u8?u=fantastikflix&p=73004876fa9e6dea9029d9ab09b3dbd619daa2e9263ee5b7aa6739a3a33ace57
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="JURIS : LOCAL TV" , GTV
 http://admin.ganbaruby23.xyz/stream/new/gtv/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/577px-GTV_Philippines_Logo_Vector.svg.png" group-title="JURIS : LOCAL TV" , GTV 2
