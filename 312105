@@ -172,6 +172,8 @@ http://admin.ganbaruby23.xyz/stream/new/hitsmovies/master.m3u8?u=phcorner2&p=610
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hits Movies" tvg-logo="https://i.imgur.com/vAMRFhL.png" group-title="JURIS : LOCAL TV",Hits Movies 2
 http://108.181.56.69:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/285605.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" tvg-name="Hits" group-title="JURIS : LOCAL TV",Hits
+http://54.179.118.28:7070/stream/new/hitshd/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" tvg-name="Hits" group-title="JURIS : LOCAL TV",Hits 2
 http://128.0.104.44:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144860.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="JURIS : LOCAL TV",Warner TV
 http://115.146.176.131:80/live/TimRizal/TimRizal/86.ts
