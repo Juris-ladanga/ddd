@@ -351,6 +351,8 @@ https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 http://tv14s.xyz:8080/z5hs1N/523413/10464
 #EXTINF: -1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="JURIS : LOCAL TV", DreamWorks
 http://admin.ganbaruby23.xyz/stream/new/dreamworks/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF: -1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="JURIS : LOCAL TV", DreamWorks PH
+http://54.179.118.28:7070/stream/new/dreamworkstagalog/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF: -1 tvg-id="ESPN.us" tvg-logo="https://imgur.com/uDSwW1K.png" group-title="JURIS : LOCAL TV", ESPN
 http://1tv41.icu:8080/live/MrKJames/115N5Yfkc9/17707.m3u8
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.uvYKFBubGFR40NtgWh7W8wHaES?rs=1&pid=ImgDetMain" group-title="JURIS : LOCAL TV",K-Movies
