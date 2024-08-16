@@ -54,6 +54,8 @@ http://admin.ganbaruby23.xyz/stream/new/vivacinema/master.m3u8?u=phcorner2&p=610
 #EXTINF: -1 tvg-id="Viva.Channel.ph" tvg-logo="https://i.imgur.com/8y3fc3F.png" group-title="JURIS : LOCAL TV", Viva Cinema 2
 http://xtv.ooo:8080/adeel349/5692929/352632
 #EXTINF: -1 tvg-id="TheFilipinoChannelMiddleEast.us" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="JURIS : LOCAL TV", TFC
+http://admin.ganbaruby23.xyz/stream/new/thefilipinochannel(tfc)/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF: -1 tvg-id="TheFilipinoChannelMiddleEast.us" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="JURIS : LOCAL TV", TFC 2
 http://live.lordstreams.co:8080/Trents456/z71Bi0k8dF/567744
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="JURIS : LOCAL TV", SARI SARI
 http://117tv.icu:8080/4qUDXt/560526/101824?type=send
