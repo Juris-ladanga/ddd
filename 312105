@@ -48,6 +48,8 @@ http://admin.ganbaruby23.xyz/stream/new/pbo/master.m3u8?u=phcorner2&p=61038d2ff4
 #EXTINF: -1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="JURIS : LOCAL TV", PBO 2
 http://user.scalecdn.co:8080/832396169/832396169/567735
 #EXTINF: -1 tvg-id="TV.5.ph" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="JURIS : LOCAL TV", TV5
+http://54.179.118.28:7070/stream/new/tv5/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF: -1 tvg-id="TV.5.ph" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="JURIS : LOCAL TV", TV5 2
 http://user.scalecdn.co:8080/832396169/832396169/546800
 #EXTINF: -1 tvg-id="Viva.Channel.ph" tvg-logo="https://i.imgur.com/8y3fc3F.png" group-title="JURIS : LOCAL TV", Viva Cinema
 http://admin.ganbaruby23.xyz/stream/new/vivacinema/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
