@@ -49,6 +49,10 @@ http://a.bittensor.nexus/Movie009/Malta009/257885
 http://admin.ganbaruby23.xyz/stream/new/pbo/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF: -1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="JURIS : LOCAL TV", PBO 2
 http://user.scalecdn.co:8080/832396169/832396169/567735
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TvN Movies Tagalog" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="JURIS : LOCAL TV",TvN Movies Tagalog
+http://54.179.118.28:7070/stream/new/tvnmoviespinoy/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TMC" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="JURIS : LOCAL TV",TMC
+http://54.179.118.28:7070/stream/new/rockaction2/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF: -1 tvg-id="TV.5.ph" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="JURIS : LOCAL TV", TV5
 http://54.179.118.28:7070/stream/new/tv5/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF: -1 tvg-id="TV.5.ph" tvg-logo="https://i.imgur.com/K84w7Dx.png" group-title="JURIS : LOCAL TV", TV5 2
