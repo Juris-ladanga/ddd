@@ -183,6 +183,8 @@ http://115.146.176.131:80/live/TimRizal/TimRizal/86.ts
 http://admin.ganbaruby23.xyz/stream/new/hbohd/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF: -1 tvg-id="HBO.HD.my" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="JURIS : LOCAL TV", HBO 2
 http://115.146.176.131:80/live/TimRizal/TimRizal/21.ts
+#EXTINF:-1 media="true" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" tvg-name="HBO HITS HD" media-dir="/Movies" group-title="JURIS : LOCAL TV",HBO HITS
+http://54.179.118.28:7070/stream/new/hbohitshd/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="JURIS : LOCAL TV",HBO SIGNATURE
 http://admin.ganbaruby23.xyz/stream/new/hbosignature/master.m3u8?u=phcorner2&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="JURIS : LOCAL TV",HBO HD
