@@ -35,7 +35,7 @@ http://210.210.155.35/uq2663/h/h14/index.m3u8
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF: -1 tvg-id="CineMo!.ph" tvg-logo="https://i.imgur.com/2Jn7QHG.png" group-title="JURIS : LOCAL TV", CineMo!
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="JURIS : LOCAL TV", Cinema One
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/smni.png" group-title="JURIS : LOCAL TV", SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF: -1 tvg-id="CINEMA.ONE.ph" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="JURIS : LOCAL TV", Cinema One HD
 https://cinemaone-abscbn-ono.amagi.tv/index_4.m3u8
